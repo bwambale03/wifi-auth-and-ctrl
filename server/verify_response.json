@@ -1,0 +1,9 @@
+{
+  "access_token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJmcmVzaCI6ZmFsc2UsImlhdCI6MTc0NjQ3MjQ4NiwianRpIjoiMDhlNGEwZWQtOTIyZi00OWNlLWE5MjAtZTE5ODVmYWNhZGYyIiwidHlwZSI6ImFjY2VzcyIsInN1YiI6NywibmJmIjoxNzQ2NDcyNDg2LCJjc3JmIjoiNDRlNDI3ZjYtN2I4Yi00MzRmLWFiOTQtZjNkY2YxNTk4ZDM5IiwiZXhwIjoxNzQ2NTU4ODg2LCJpc19hZG1pbiI6dHJ1ZX0.sEblf_AG-M-UjC93h1ZFb6CmASerh0PaPKEDQSzfsaU",
+  "admin": {
+    "id": 7,
+    "username": "superadmin"
+  },
+  "csrf_token": "a0b2641d-d69b-480d-8a33-3a7e4f40516b",
+  "message": "Login successful"
+}
