@@ -41,5 +41,4 @@ A web-based application for managing WiFi authentication and access control.
 
 ### Author
     - Name
-        ```bash
-            Edwin Bwambale
+        Edwin Bwambale
