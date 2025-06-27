@@ -40,5 +40,6 @@ A web-based application for managing WiFi authentication and access control.
         python run.py
 
 ### Author
-    ```bash
-        Edwin Bwambale
+    - Name
+        ```bash
+            Edwin Bwambale
